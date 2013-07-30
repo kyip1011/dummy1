@@ -6,7 +6,7 @@ public class KyPlay1 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println(">>>>> ONE");
+		System.out.println(">>>>> TWO");
 	}
 
 }
