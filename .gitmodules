@@ -1,0 +1,3 @@
+[submodule "submodule_common1"]
+	path = submodule_common1
+	url = https://github.com/kyip1011/common1
