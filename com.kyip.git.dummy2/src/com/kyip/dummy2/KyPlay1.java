@@ -11,6 +11,8 @@ public class KyPlay1 {
 		System.out.println(">>>>> THREE");
 		
 		System.out.println(">>>>> THREE add:" + Util1.add(2, 5));
+		System.out.println(">>>>> THREE *:" + Util1.multiply(2, 5));
+		System.out.println(">>>>> THREE add3:" + Util1.add3(2, 5, 7));
 	}
 
 }
